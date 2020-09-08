@@ -1,0 +1,22 @@
+{
+  "name": "etherueum_mlm",
+  "version": "1.0.0",
+  "description": "A crypto mlm smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulmoiz251/ethereum-mlm-contract-truffle.git"
+  },
+  "author": "Abdul Moiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmoiz251/ethereum-mlm-contract-truffle/issues"
+  },
+  "homepage": "https://github.com/abdulmoiz251/ethereum-mlm-contract-truffle#readme",
+  "dependencies": {
+    "truffle": "^5.1.43"
+  }
+}
